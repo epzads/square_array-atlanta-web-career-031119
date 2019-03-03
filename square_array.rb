@@ -7,5 +7,5 @@ new_array = []
  new_array << (array  * array) 
 
 end 
-  puts new_array  
+  return new_array  
 end 
